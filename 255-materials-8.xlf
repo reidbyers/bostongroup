@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/materials?token=_MAARs-evY3WZu6JZhv9OiSLC_eqr_HV</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/materials?token=PTMQ7v6OH3HNLH4vDslBewVAivvWwIGW</mda:meta>
+        <mda:meta type="elementId">255</mda:meta>
+        <mda:meta type="draftId">2522</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>3D Printing Materials</source>
+        <target>3D 프린팅 재료</target>
+      </segment>
+    </unit>
+    <unit id="2" name="heroBgImage.30942.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="3" name="heroText">
+      <segment state="initial">
+        <source>Industrial-grade 3D printing materials engineered for Markforged printers.</source>
+        <target>Markforged 프린터용으로 설계된 산업용 3D 프린팅 재료.</target>
+      </segment>
+    </unit>
+    <unit id="4" name="contentBlocks.772862.header">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="5" name="contentBlocks.772862.applications.0.name">
+      <segment state="initial">
+        <source>Complex geometries</source>
+        <target>복잡한 기하학적 형태</target>
+      </segment>
+    </unit>
+    <unit id="6" name="contentBlocks.772862.applications.1.name">
+      <segment state="initial">
+        <source>Replacement parts</source>
+        <target>교체용 부품</target>
+      </segment>
+    </unit>
+    <unit id="7" name="contentBlocks.772862.applications.2.name">
+      <segment state="initial">
+        <source>Corrosion-resistant parts</source>
+        <target>부식 방지 부품</target>
+      </segment>
+    </unit>
+    <unit id="8" name="contentBlocks.772862.applications.3.name">
+      <segment state="initial">
+        <source>Wear-resistant inserts</source>
+        <target>내마모성 인서트</target>
+      </segment>
+    </unit>
+    <unit id="9" name="contentBlocks.772862.applications.4.name">
+      <segment state="initial">
+        <source>Forming tooling</source>
+        <target>성형 툴링</target>
+      </segment>
+    </unit>
+    <unit id="10" name="contentBlocks.772862.applications.5.name">
+      <segment state="initial">
+        <source><![CDATA[Dies & punches]]></source>
+        <target><![CDATA[다이 및 펀치]]></target>
+      </segment>
+    </unit>
+    <unit id="11" name="contentBlocks.772862.applications.6.name">
+      <segment state="initial">
+        <source>Sheet metal fabrication</source>
+        <target>판금 제조</target>
+      </segment>
+    </unit>
+    <unit id="12" name="contentBlocks.772862.applications.7.name">
+      <segment state="initial">
+        <source><![CDATA[Forming tools & prototypes]]></source>
+        <target><![CDATA[성형 도구 및 프로토타입]]></target>
+      </segment>
+    </unit>
+    <unit id="13" name="contentBlocks.772862.applications.8.name">
+      <segment state="initial">
+        <source>Robotic arms</source>
+        <target>로봇 팔</target>
+      </segment>
+    </unit>
+    <unit id="14" name="contentBlocks.772862.applications.9.name">
+      <segment state="initial">
+        <source>Inspection fixtures</source>
+        <target>검사 설비</target>
+      </segment>
+    </unit>
+    <unit id="15" name="contentBlocks.772862.applications.10.name">
+      <segment state="initial">
+        <source>End use parts</source>
+        <target>최종 사용 부품</target>
+      </segment>
+    </unit>
+    <unit id="16" name="contentBlocks.772862.backgroundImage.262.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="17" name="contentBlocks.772863.industries.772864.backgroundImage.31676.alt">
+      <segment state="initial">
+        <source>Two manufacturers at automotive plant looking at 3D printed part</source>
+        <target>3D 프린트 파트를 바라보고 있는 자동차 공장의 두 제조자</target>
+      </segment>
+    </unit>
+    <unit id="18" name="contentBlocks.772863.industries.772865.backgroundImage.31678.alt">
+      <segment state="initial">
+        <source>Manufacturer installs 3D printed gears on production line</source>
+        <target>생산 라인에 3D 프린트 기어를 설치하는 제조자</target>
+      </segment>
+    </unit>
+    <unit id="19" name="contentBlocks.772863.industries.772866.backgroundImage.31675.alt">
+      <segment state="initial">
+        <source>Aerospace engineer working on engine</source>
+        <target>엔진으로 작업 중인 항공 우주 엔지니어</target>
+      </segment>
+    </unit>
+    <unit id="20" name="contentBlocks.772863.industries.772867.backgroundImage.31677.alt">
+      <segment state="initial">
+        <source>Professor and students look at 3D printing material in dry box</source>
+        <target>드라이 박스에서 3D 프린팅 재료를 살펴보는 교수와 학생들</target>
+      </segment>
+    </unit>
+    <unit id="21" name="contentBlocks.772863.industries.772868.backgroundImage.31679.alt">
+      <segment state="initial">
+        <source>Engineer looking at CAD design on tablet in laboratory</source>
+        <target>실험실에서 태블릿으로 CAD 설계를 보고 있는 엔지니어</target>
+      </segment>
+    </unit>
+    <unit id="22" name="contentBlocks.772863.andMoreText">
+      <segment state="initial">
+        <source>and more</source>
+        <target>및 기타</target>
+      </segment>
+    </unit>
+    <unit id="23" name="metaDescription">
+      <segment state="initial">
+        <source>Metal, composite, and continuous fiber industrial-grade 3D printing materials engineered for Markforged printers.</source>
+        <target>Markforged 프린터용으로 설계된 금속, 복합재 및 연속 섬유 산업용 등급 3D 프린팅 재료.</target>
+      </segment>
+    </unit>
+    <unit id="24" name="metaTitle">
+      <segment state="initial">
+        <source>3D Printing Materials | Markforged</source>
+        <target>3D 프린팅 재료 | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="25" name="ogImage.11559.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+  </file>
+</xliff>

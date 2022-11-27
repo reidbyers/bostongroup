@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/3d-printers?token=jBDFD4I_IoV997iXGaxI9n0OOVI60WHD</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/3d-printers?token=8uyYF51UI_UBLneb1nwQNGrzd0DqxF-w</mda:meta>
+        <mda:meta type="elementId">148</mda:meta>
+        <mda:meta type="draftId">2528</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>Markforged Industrial 3D Printers. Strong Parts. Right Now.</source>
+        <target>Markforged 산업용 3D 프린터. 강력한 파트를. 지금 바로.</target>
+      </segment>
+    </unit>
+    <unit id="2" name="heroText">
+      <segment state="initial">
+        <source><![CDATA[<p>A complete line of machines made to create functional parts. Industrial 3D printers that consistently improve with a connected platform and precision construction.</p>]]></source>
+        <target><![CDATA[<p>기능성 파트를 제작하기 위해 다 갖춘 장비 라인. 플랫폼 연결과 정밀한 구성으로 끊임 없이 개선되는 산업용 3D 프린터.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="3" name="heroBgImage.133486.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="4" name="contentBlocks.773398.printerSeriesImage.526763.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="5" name="contentBlocks.773398.printerSeriesHeading">
+      <segment state="initial">
+        <source>Desktop Series</source>
+        <target>데스크톱 시리즈</target>
+      </segment>
+    </unit>
+    <unit id="6" name="contentBlocks.773398.printerSeriesCopy">
+      <segment state="initial">
+        <source>Drive innovation right from your desktop. Powerful professional 3D printers designed to maximize the capabilities of high-quality composite printing.</source>
+        <target>데스크톱에서 바로 혁신을 주도해보세요. 고품질 복합재 프린트 기능을 극대화하도록 설계된 강력한 전문 3D 프린터.</target>
+      </segment>
+    </unit>
+    <unit id="7" name="contentBlocks.773401.columns.773402.subheader">
+      <segment state="initial">
+        <source>Strong Parts</source>
+        <target>강력한 파트</target>
+      </segment>
+    </unit>
+    <unit id="8" name="contentBlocks.773401.columns.773402.text">
+      <segment state="initial">
+        <source>Every Markforged industrial 3D printer is built to create strong parts. Period.</source>
+        <target>Markforged의 산업용 3D 프린터는 모두 강력한 파트를 프린트하도록 제작되었습니다. 기간.</target>
+      </segment>
+    </unit>
+    <unit id="9" name="contentBlocks.773401.columns.773403.subheader">
+      <segment state="initial">
+        <source>Designed for Reliability</source>
+        <target>믿음직한 설계</target>
+      </segment>
+    </unit>
+    <unit id="10" name="contentBlocks.773401.columns.773403.text">
+      <segment state="initial">
+        <source>Precision design and construction yields predictable, repeatable results.</source>
+        <target>정밀한 설계와 구성으로 예측과 반복이 가능한 결과를 얻을 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="11" name="contentBlocks.773401.columns.773404.subheader">
+      <segment state="initial">
+        <source>Platform Connected</source>
+        <target>연결된 플랫폼</target>
+      </segment>
+    </unit>
+    <unit id="12" name="contentBlocks.773401.columns.773404.text">
+      <segment state="initial">
+        <source>Monitored and controlled by a central platform —  fabricating functional parts is as easy as pressing print.</source>
+        <target>중앙 플랫폼에서 모니터링하고 제어하므로 기능성 파트를 제작하는 일이 프린트 버튼을 누르는 것만큼 쉽습니다.</target>
+      </segment>
+    </unit>
+    <unit id="13" name="contentBlocks.773401.bgImage.32115.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="14" name="contentBlocks.773405.printerProcessTab.773406.tabTitle">
+      <segment state="initial">
+        <source>Metal Process</source>
+        <target>금속 공정</target>
+      </segment>
+    </unit>
+    <unit id="15" name="contentBlocks.773405.printerProcessTab.773406.processStep.773407.stepTitle">
+      <segment state="initial">
+        <source><![CDATA[1. Design & Slice]]></source>
+        <target><![CDATA[1. 디자인 및 슬라이스]]></target>
+      </segment>
+    </unit>
+    <unit id="16" name="contentBlocks.773405.printerProcessTab.773406.processStep.773407.stepDescription">
+      <segment state="initial">
+        <source>Design a part in your chosen CAD platform and export it as an STL. Upload the STL to Eiger and select your material and orientation. The software slices your part, automatically generating a raft, supports where necessary, and a layer of release material between the raft/supports and the part itself.</source>
+        <target>선택한 CAD 플랫폼에서 파트를 설계하고 STL 포맷 파일로 내보냅니다. STL 파일을 Eiger에 업로드하고 재료와 방향을 선택하세요. 소프트웨어는 파트를 슬라이스하여 자동으로 래프트와 필요한 경우 서포트를 생성하고, 래프트/서포트와 파트 자체 사이에 이형제를 발라 이형제 층을 생성합니다.</target>
+      </segment>
+    </unit>
+    <unit id="17" name="contentBlocks.773405.printerProcessTab.773406.processStep.773407.stepBackground.33569.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="18" name="contentBlocks.773405.printerProcessTab.773406.processStep.773408.stepTitle">
+      <segment state="initial">
+        <source>2. Print</source>
+        <target>2. 프린트</target>
+      </segment>
+    </unit>
+    <unit id="19" name="contentBlocks.773405.printerProcessTab.773406.processStep.773408.stepDescription">
+      <segment state="initial">
+        <source>Metal powder bound in plastic is printed a layer at a time into the shape of your part. Parts are scaled up to compensate for shrinkage during the sintering process.</source>
+        <target>플라스틱으로 결합된 금속 파우더가 파트의 형태대로 한 번에 한 층씩 프린트됩니다. 파트는 소결 과정에서 수축되는 것을 감안하여 보완하도록 약간 크게 만듭니다.</target>
+      </segment>
+    </unit>
+    <unit id="20" name="contentBlocks.773405.printerProcessTab.773406.processStep.773408.stepBackground.133553.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="21" name="contentBlocks.773405.printerProcessTab.773406.processStep.773409.stepTitle">
+      <segment state="initial">
+        <source>3. Wash</source>
+        <target>3. 세척</target>
+      </segment>
+    </unit>
+    <unit id="22" name="contentBlocks.773405.printerProcessTab.773406.processStep.773409.stepDescription">
+      <segment state="initial">
+        <source>After printing, “green” parts are placed into the Wash-1, which uses a debinding fluid to dissolve most of the plastic binding material.</source>
+        <target>프린트 후, "그린" 파트는 디바인더액을 사용하는 Wash-1으로 옮겨져 플라스틱 결합 재료를 거의 모두 용해시킵니다.</target>
+      </segment>
+    </unit>
+    <unit id="23" name="contentBlocks.773405.printerProcessTab.773406.processStep.773409.stepBackground.29733.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="24" name="contentBlocks.773405.printerProcessTab.773406.processStep.773410.stepTitle">
+      <segment state="initial">
+        <source>4. Sinter</source>
+        <target>4. 소결</target>
+      </segment>
+    </unit>
+    <unit id="25" name="contentBlocks.773405.printerProcessTab.773406.processStep.773410.stepDescription">
+      <segment state="initial">
+        <source>Washed “brown” parts are placed in a Markforged furnace, where they are heated with a material-specific profile to remove the remaining binder and solidify metal powder.</source>
+        <target>세척된 "브라운" 파트는 Markforged 퍼니스에 넣고 재료별 프로파일에 따라 가열하여 남아 있는 바인더를 제거하고 금속 파우더를 고형화합니다.</target>
+      </segment>
+    </unit>
+    <unit id="26" name="contentBlocks.773405.printerProcessTab.773406.processStep.773410.stepBackground.29734.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="27" name="contentBlocks.773405.printerProcessTab.773406.processStep.773411.stepTitle">
+      <segment state="initial">
+        <source>5. Use</source>
+        <target>5. 사용</target>
+      </segment>
+    </unit>
+    <unit id="28" name="contentBlocks.773405.printerProcessTab.773406.processStep.773411.stepDescription">
+      <segment state="initial">
+        <source>Parts come out of the sintering furnace as fully metallic objects and can be used in manufacturing, tooling, and prototyping operations.</source>
+        <target>퍼니스에서 꺼낸 파트는 완전히 금속성 물체이며 제조, 툴링 및 프로토타이핑 작업에 바로 사용할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="29" name="contentBlocks.773405.printerProcessTab.773406.processStep.773411.stepBackground.29735.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="30" name="contentBlocks.773405.printerProcessTab.773412.tabTitle">
+      <segment state="initial">
+        <source>Continuous Fiber Process</source>
+        <target>연속 섬유 공정</target>
+      </segment>
+    </unit>
+    <unit id="31" name="contentBlocks.773405.printerProcessTab.773412.processStep.773413.stepTitle">
+      <segment state="initial">
+        <source><![CDATA[1. Design & Slice]]></source>
+        <target><![CDATA[1. 디자인 및 슬라이스]]></target>
+      </segment>
+    </unit>
+    <unit id="32" name="contentBlocks.773405.printerProcessTab.773412.processStep.773413.stepDescription">
+      <segment state="initial">
+        <source>Using the CAD platform of your choice, design a part. Many different parts can be printed, but following Design for Additive Manufacturing (DFAM) guidelines enables you to fully leverage the unique strength and flexibility of Markforged composite printers. Upload the STL to Eiger and select your base materials and part orientation.</source>
+        <target>선택한 CAD 플랫폼을 사용하여 파트를 설계합니다. 다양한 파트를 프린트할 수 있지만 적층 제조 특화 설계(DFAM, Design for Additive Manufacturing) 지침에 따르면 Markforged 복합 프린터의 고유한 강도와 유연성을 최대한 활용할 수 있습니다. STL 파일을 Eiger에 업로드하고 기본 재료와 파트 방향을 선택하세요.</target>
+      </segment>
+    </unit>
+    <unit id="33" name="contentBlocks.773405.printerProcessTab.773412.processStep.773413.stepBackground.33570.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="34" name="contentBlocks.773405.printerProcessTab.773412.processStep.773414.stepTitle">
+      <segment state="initial">
+        <source>2. Reinforce</source>
+        <target>2. 강화</target>
+      </segment>
+    </unit>
+    <unit id="35" name="contentBlocks.773405.printerProcessTab.773412.processStep.773414.stepDescription">
+      <segment state="initial">
+        <source>Unique to Markforged composite printers with Continuous Fiber Reinforcement (CFR), Eiger enables you to print with two types of printing media: a Composite Base filament and a Continuous Fiber. Configure the reinforcement to your application, choosing a Continuous Fiber and layers to reinforce.</source>
+        <target>연속 섬유 강화(CFR)가 적용된 Markforged 복합 프린터는 특별히 Eiger로 두 가지 유형의 프린트 재료, 즉 복합재 베이스 필라멘트와 연속 섬유를 프린트할 수 있습니다. 애플리케이션에서 연속 섬유와 강화할 레이어를 선택하여 강화 기능을 구성합니다.</target>
+      </segment>
+    </unit>
+    <unit id="36" name="contentBlocks.773405.printerProcessTab.773412.processStep.773414.stepBackground.29728.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="37" name="contentBlocks.773405.printerProcessTab.773412.processStep.773415.stepTitle">
+      <segment state="initial">
+        <source>3. Print</source>
+        <target>3. 프린트</target>
+      </segment>
+    </unit>
+    <unit id="38" name="contentBlocks.773405.printerProcessTab.773412.processStep.773415.stepDescription">
+      <segment state="initial">
+        <source>A Markforged composite printer automatically prints your part layer by layer. Composite Base material is printed through one nozzle, and Continuous Fiber is laid in-layer by a second nozzle and extrusion system.</source>
+        <target>Markforged 복합 프린터는 자동으로 파트를 한 층씩 프린트합니다. 하나의 노즐을 통해 복합재를 프린트하고, 두 번째 노즐과 압출 시스템으로 연속섬유를 적층합니다.</target>
+      </segment>
+    </unit>
+    <unit id="39" name="contentBlocks.773405.printerProcessTab.773412.processStep.773415.stepBackground.29729.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="40" name="contentBlocks.773405.printerProcessTab.773412.processStep.773416.stepTitle">
+      <segment state="initial">
+        <source>4. Use</source>
+        <target>4. 사용</target>
+      </segment>
+    </unit>
+    <unit id="41" name="contentBlocks.773405.printerProcessTab.773412.processStep.773416.stepDescription">
+      <segment state="initial">
+        <source>The resulting composite part consists of a Composite Base and a Continuous Fiber, and can be used in a wide variety of industrial applications.</source>
+        <target>복합재 파트는 복합재 베이스와 연속 섬유로 구성되며 다양한 산업 분야에서 활용할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="42" name="contentBlocks.773405.printerProcessTab.773412.processStep.773416.stepBackground.29730.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="43" name="metaDescription">
+      <segment state="initial">
+        <source>Markforged industrial 3D printers are built to create strong parts. Precision design and construction yield predictable, repeatable results.</source>
+        <target>Markforged의 산업용 3D 프린터는 강력한 파트를 프린트하도록 제작되었습니다. 정밀한 설계와 구성으로 예측과 반복이 가능한 결과를 얻을 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="44" name="metaTitle">
+      <segment state="initial">
+        <source>Industrial 3D Printers: Strong Parts. Right Now | Markforged</source>
+        <target>산업용 3D 프린터: 강력한 파트를. 지금 바로 | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="45" name="ogImage.29953.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+  </file>
+</xliff>

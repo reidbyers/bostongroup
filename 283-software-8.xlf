@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/software?token=JyD7PaPkThiV3RoRWHSBe0tnZYncIcPm</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/software?token=O_3C3u6vr3UhsruRQQdmAi9vi5vOkvVY</mda:meta>
+        <mda:meta type="elementId">283</mda:meta>
+        <mda:meta type="draftId">2524</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>Eiger™</source>
+        <target>Eiger™</target>
+      </segment>
+    </unit>
+    <unit id="2" name="heroBgImage.31953.alt">
+      <segment state="initial">
+        <source>Engineer looking at Markforged's 3D printer software, Eiger</source>
+        <target>Markforged의 3D 프린터 소프트웨어인 Eiger를 살펴보는 엔지니어</target>
+      </segment>
+    </unit>
+    <unit id="3" name="heroText">
+      <segment state="initial">
+        <source><![CDATA[<p>A leading digital manufacturing software for driving business transformation.</p>]]></source>
+        <target><![CDATA[<p>비즈니스 혁신을 주도할 최고의 디지털 제조 소프트웨어입니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="4" name="contentBlocks.772919.text">
+      <segment state="initial">
+        <source>Produce parts on-demand and at the point of need with the first connected, secure additive manufacturing platform.</source>
+        <target>최초의 인터넷 보안 적층 제조 플랫폼에서 필요할 때 주문형으로 파트를 생산해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="5" name="contentBlocks.772919.header">
+      <segment state="initial">
+        <source>Prep. Print. Manage. Scale.</source>
+        <target>준비. 프린트. 관리. 확장.</target>
+      </segment>
+    </unit>
+    <unit id="6" name="contentBlocks.772920.video.62165.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="7" name="contentBlocks.772920.caption">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="8" name="contentBlocks.772921.heading">
+      <segment state="initial">
+        <source>From design to part — easily and quickly</source>
+        <target>설계에서 파트까지, 쉽고 빠르게</target>
+      </segment>
+    </unit>
+    <unit id="9" name="contentBlocks.772921.description">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger is an integrated, connected platform designed to take you from CAD to functional part quickly. The browser-based 3D printing software workflows are secure, fast, and intuitive.<br /></p>]]></source>
+        <target><![CDATA[<p>Eiger는 CAD 파일로 기능성 파트를 빠르게 얻을 수 있도록 설계된 통합 연결 플랫폼입니다. 브라우저 기반 3D 프린팅 소프트웨어 워크플로는 안전하고 빠르며 직관적입니다.<br /></p>]]></target>
+      </segment>
+    </unit>
+    <unit id="10" name="contentBlocks.772921.video.60040.alt">
+      <segment state="initial">
+        <source>3d printing slicer software</source>
+        <target>3D 프린팅 슬라이서 소프트웨어</target>
+      </segment>
+    </unit>
+    <unit id="11" name="contentBlocks.772921.coverImage.2037.alt">
+      <segment state="initial">
+        <source>Motorcycle brake lever in Eiger</source>
+        <target>Eiger에 띄워진 오토바이 브레이크 레버 파일</target>
+      </segment>
+    </unit>
+    <unit id="12" name="contentBlocks.772922.screenshots.772923.image.60044.alt">
+      <segment state="initial">
+        <source>3d printing software materials selector</source>
+        <target>3D 프린팅 소프트웨어 재료 선택기</target>
+      </segment>
+    </unit>
+    <unit id="13" name="contentBlocks.772922.screenshots.772923.heading">
+      <segment state="initial">
+        <source>Print with fibers, composites, and metals</source>
+        <target>섬유, 복합재 및 금속으로 프린팅</target>
+      </segment>
+    </unit>
+    <unit id="14" name="contentBlocks.772922.screenshots.772923.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger, our 3D printing software, enables you to slice and print composite parts reinforced with continuous fibers and metals. You can prep parts for printing with a single click, or drill deeply into part settings to optimize your final product. </p>]]></source>
+        <target><![CDATA[<p>당사의 3D 프린팅 소프트웨어인 Eiger를 사용하면 연속 섬유와 금속으로 강화된 복합재 파트를 슬라이스하고 프린팅할 수 있습니다. 클릭 한 번으로 프린트할 파트를 준비하거나 파트 설정을 자세히 분석하여 최종 제품을 최적화할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="15" name="contentBlocks.772922.screenshots.772924.image.60045.alt">
+      <segment state="initial">
+        <source>3d printing software build view</source>
+        <target>3D 프린팅 소프트웨어 빌드 뷰</target>
+      </segment>
+    </unit>
+    <unit id="16" name="contentBlocks.772922.screenshots.772924.heading">
+      <segment state="initial">
+        <source>Interact seamlessly with printers</source>
+        <target>프린터와 원활하게 상호 작용</target>
+      </segment>
+    </unit>
+    <unit id="17" name="contentBlocks.772922.screenshots.772924.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger software fully integrates with all Markforged 3D printers, enabling you to create builds, print parts, and monitor prints in a seamless workflow. </p>]]></source>
+        <target><![CDATA[<p>Eiger 소프트웨어는 모든 Markforged 3D 프린터와 완벽하게 통합되어 원활한 워크플로에서 빌드를 생성하고 파트를 프린트하며 프린트물을 모니터링할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="18" name="contentBlocks.772925.heading">
+      <segment state="initial">
+        <source>Customize Support Placement</source>
+        <target>서포트 배치 맞춤 설정</target>
+      </segment>
+    </unit>
+    <unit id="19" name="contentBlocks.772925.description">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger makes it easy to automatically generate supports that are optimized for most parts. Using Support Overrides, you can choose where to place supports to avoid internal channels, small overhangs, or threading or to provide extra support.</p>]]></source>
+        <target><![CDATA[<p>Eiger를 사용하면 거의 모든 파트에 최적화된 서포트를 손쉽게 자동으로 생성할 수 있습니다. 서포트 재지정을 사용하면 서포트 위치를 선택할 수 있어 내부 채널, 작은 돌출부 또는 나사산 같은 형태가 생성되는 것을 방지하거나 추가 서포트를 배치할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="20" name="contentBlocks.772925.video.666445.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="21" name="contentBlocks.772926.heading">
+      <segment state="initial">
+        <source>Store and access parts effortlessly</source>
+        <target>손쉬운 파트 보관 및 액세스</target>
+      </segment>
+    </unit>
+    <unit id="22" name="contentBlocks.772926.description">
+      <segment state="initial">
+        <source><![CDATA[<p>A secure part library enables you to dynamically manage engineering projects of any size — complete with versioning. Eiger part files are securely stored and can be versioned, edited, and printed anywhere.</p>]]></source>
+        <target><![CDATA[<p>보안 기능이 있는 파트 라이브러리를 통해 버전 관리가 가능하여 모든 규모의 엔지니어링 프로젝트를 역동적으로 관리할 수 있습니다. 파트 파일은 Eiger에 안전하게 저장되며 어디에서나 버전 관리, 편집, 프린트할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="23" name="contentBlocks.772926.video.60041.alt">
+      <segment state="initial">
+        <source>3d printing software part management</source>
+        <target>3D 프린팅 소프트웨어의 파트 관리</target>
+      </segment>
+    </unit>
+    <unit id="24" name="contentBlocks.772926.coverImage.2037.alt">
+      <segment state="initial">
+        <source>Motorcycle brake lever in Eiger</source>
+        <target>Eiger에 띄워진 오토바이 브레이크 레버 파일</target>
+      </segment>
+    </unit>
+    <unit id="25" name="contentBlocks.772927.screenshots.772928.image.60046.alt">
+      <segment state="initial">
+        <source>3d printing software part selector</source>
+        <target>3D 프린팅 소프트웨어 파트 선택기</target>
+      </segment>
+    </unit>
+    <unit id="26" name="contentBlocks.772927.screenshots.772928.heading">
+      <segment state="initial">
+        <source>Manage projects with simple organizational features</source>
+        <target>간단한 조직 관리 기능으로 프로젝트 관리</target>
+      </segment>
+    </unit>
+    <unit id="27" name="contentBlocks.772927.screenshots.772928.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Organize and bucket your parts in an intuitive, simple way with folders. Organize parts and projects alphabetically, by create date, or by edit date.</p>]]></source>
+        <target><![CDATA[<p>폴더를 사용하여 직관적이고 간단한 방법으로 파트를 구성하고 버킷에 넣습니다. 파트 및 프로젝트를 알파벳순, 생성 날짜 또는 편집 날짜별로 구성합니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="28" name="contentBlocks.772927.screenshots.772929.image.60047.alt">
+      <segment state="initial">
+        <source>3d printing software search and filtering features</source>
+        <target>3D 프린팅 소프트웨어의 검색 및 필터링 기능</target>
+      </segment>
+    </unit>
+    <unit id="29" name="contentBlocks.772927.screenshots.772929.heading">
+      <segment state="initial">
+        <source>Find the right part every time</source>
+        <target>매번 올바른 파트 탐색</target>
+      </segment>
+    </unit>
+    <unit id="30" name="contentBlocks.772927.screenshots.772929.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Easy-to-use filters sort parts by part name, material, or user — enabling you to quickly find the part you need when you need it. </p>]]></source>
+        <target><![CDATA[<p>사용하기 쉬운 필터가 있어 파트 이름, 재료 또는 사용자별로 파트를 정렬할 수 있으므로 필요할 때 필요한 파트를 빠르게 찾을 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="31" name="contentBlocks.772930.heading">
+      <segment state="initial">
+        <source>Drive fleet wide success with real time monitoring</source>
+        <target>실시간 모니터링으로 제품군 전체의 성공 유도</target>
+      </segment>
+    </unit>
+    <unit id="32" name="contentBlocks.772930.description">
+      <segment state="initial">
+        <source><![CDATA[<p>A single place to manage your printer fleet in real time, whether in one spot or worldwide. Benefit from automatic updates while getting analytics, usage data, and live telemetry in a single place. </p>]]></source>
+        <target><![CDATA[<p>프린터 여러 대가 한 지점에서 있든 전 세계에 분산되어 있든 실시간으로 한 곳에서 전부 관리할 수 있습니다. 한 곳에서 분석 데이터, 사용 데이터, 실시간 원격 분석을 확인하며 자동 업데이트의 이점을 누려보세요.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="33" name="contentBlocks.772930.video.60043.alt">
+      <segment state="initial">
+        <source>3d printing software fleet management</source>
+        <target>3D 프린팅 소프트웨어 제품군 관리</target>
+      </segment>
+    </unit>
+    <unit id="34" name="contentBlocks.772930.coverImage.2037.alt">
+      <segment state="initial">
+        <source>Motorcycle brake lever in Eiger</source>
+        <target>Eiger에 띄워진 오토바이 브레이크 레버 파일</target>
+      </segment>
+    </unit>
+    <unit id="35" name="contentBlocks.772931.screenshots.772932.image.59807.alt">
+      <segment state="initial">
+        <source>3d printing software printer view</source>
+        <target>3D 프린팅 소프트웨어 프린터 뷰</target>
+      </segment>
+    </unit>
+    <unit id="36" name="contentBlocks.772931.screenshots.772932.heading">
+      <segment state="initial">
+        <source>Monitor devices in real time</source>
+        <target>실시간 장치 모니터링</target>
+      </segment>
+    </unit>
+    <unit id="37" name="contentBlocks.772931.screenshots.772932.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger empowers you to monitor any connected device in your organization from anywhere in the world. Get real time updates on critical project progress as it happens. </p>]]></source>
+        <target><![CDATA[<p>Eiger를 사용하면 전 세계 어디에서나 조직에 연결된 모든 장치를 모니터링할 수 있습니다. 중요한 프로젝트의 진행 상황을 실시간 업데이트로 확인해보세요.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="38" name="contentBlocks.772931.screenshots.772933.image.59819.alt">
+      <segment state="initial">
+        <source>3d printing software integrated support</source>
+        <target>3D 프린팅 소프트웨어 통합 지원</target>
+      </segment>
+    </unit>
+    <unit id="39" name="contentBlocks.772931.screenshots.772933.heading">
+      <segment state="initial">
+        <source>Customer success, built in</source>
+        <target>고객의 성공을 탑재한 제품</target>
+      </segment>
+    </unit>
+    <unit id="40" name="contentBlocks.772931.screenshots.772933.text">
+      <segment state="initial">
+        <source><![CDATA[<p>Eiger 3D printing software updates automatically push to your organization, unlocking new features and continuously improving printer performance. Support is fully integrated into the software experience and is directly accessible from both part and printer pages. </p>]]></source>
+        <target><![CDATA[<p>Eiger 3D 프린팅 소프트웨어는 업데이트를 조직에 자동으로 푸시하여 새로운 기능을 추가하고 프린터 성능을 지속적으로 개선합니다. 지원 기능이 소프트웨어 환경에 완전히 통합되어 있으며 파트 페이지와 프린터 페이지 모두에서 직접 액세스할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="41" name="contentBlocks.772934.columns.772935.header">
+      <segment state="initial">
+        <source>Eiger Core</source>
+        <target>Eiger Core</target>
+      </segment>
+    </unit>
+    <unit id="42" name="contentBlocks.772934.columns.772935.copy">
+      <segment state="initial">
+        <source><![CDATA[<p>Designed to take you and your teams from CAD to strong, functional parts quickly that can be shared and iterated.<br /></p>]]></source>
+        <target><![CDATA[<p>공유와 반복이 가능한 CAD에서 강력하고 기능성 파트로 신속하게 전환할 수 있도록 설계했습니다.<br /></p>]]></target>
+      </segment>
+    </unit>
+    <unit id="43" name="contentBlocks.772934.columns.772936.header">
+      <segment state="initial">
+        <source>Eiger Fleet</source>
+        <target>Eiger Fleet</target>
+      </segment>
+    </unit>
+    <unit id="44" name="contentBlocks.772934.columns.772936.copy">
+      <segment state="initial">
+        <source><![CDATA[<p>Designed to scale your additive manufacturing operations through centralized control over printers, users, parts, and workflows.</p>]]></source>
+        <target><![CDATA[<p>프린터, 사용자, 파트, 워크플로를 중앙 집중식으로 제어하여 적층 제조 작업을 확장하도록 설계했습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="45" name="contentBlocks.772934.columns.772937.header">
+      <segment state="initial">
+        <source>Offline Eiger</source>
+        <target>Offline Eiger</target>
+      </segment>
+    </unit>
+    <unit id="46" name="contentBlocks.772934.columns.772937.copy">
+      <segment state="initial">
+        <source><![CDATA[<p>Designed to take you from CAD to strong, functional parts quickly when Internet access is intermittent or restricted.</p>]]></source>
+        <target><![CDATA[<p>인터넷 연결이 간헐적으로 끊기거나 제한될 때 CAD 파일을 강력한 기능성 파트로 신속하게 구현할 수 있도록 설계했습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="47" name="contentBlocks.772938.tiles.772939.heading">
+      <segment state="initial">
+        <source>Learn about online and offline software operations in Eiger Deployment Options and Data Security</source>
+        <target>Eiger 배포 옵션 및 데이터 보안에서 온라인 및 오프라인 소프트웨어 작업을 알아보세요.</target>
+      </segment>
+    </unit>
+    <unit id="48" name="contentBlocks.772938.tiles.772939.description">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="49" name="contentBlocks.772938.tiles.772940.heading">
+      <segment state="initial">
+        <source>Learn the basics of 3D printing software in From Art to Part: A Step-by-Step Guide to 3D Printing</source>
+        <target>도면에서 파트까지 3D 프린팅 소프트웨어의 기초를 학습해보세요. 3D 프린팅 단계별 가이드</target>
+      </segment>
+    </unit>
+    <unit id="50" name="contentBlocks.772938.tiles.772940.description">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="51" name="contentBlocks.772938.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="52" name="contentBlocks.772941.heading">
+      <segment state="initial">
+        <source>Blacksmith —
+Trust your parts off your print bed with in-process quality control</source>
+        <target>Blacksmith — 공정을 진행하는 내내 품질을 관리하므로 프린트 베드에서 떼어낸 파트도 바로 신뢰할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="53" name="contentBlocks.772941.description">
+      <segment state="initial">
+        <source><![CDATA[<p>Markforged’s revolutionary software <strong>Blacksmith</strong> enhances part quality and provides both real time and documented part inspection, verifying that the part you printed is the right part for the job. </p>]]></source>
+        <target><![CDATA[<p>Markforged의 혁신적인 소프트웨어 <strong>Blacksmith</strong>는 파트 품질을 향상하고 파트를 실시간으로도 문서화된 형식으로도 모두 검사하여 프린트한 파트가 실사용에 적합한 파트인지 확인합니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="54" name="contentBlocks.772941.coverImage.83253.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="55" name="contentBlocks.772942.columns.772943.subheader">
+      <segment state="initial">
+        <source>Collaborative and Scalable</source>
+        <target>협업 및 확장 가능</target>
+      </segment>
+    </unit>
+    <unit id="56" name="contentBlocks.772942.columns.772943.text">
+      <segment state="initial">
+        <source>Share parts across teams. Kick-off and monitor prints from anywhere on a secure, connected infrastructure.</source>
+        <target>팀과 팀이 파트를 공유합니다. 인프라가 안전하고 서로 연결되어 있어 어디에서나 프린트를 시작하고 모니터링합니다.</target>
+      </segment>
+    </unit>
+    <unit id="57" name="contentBlocks.772942.columns.772944.subheader">
+      <segment state="initial">
+        <source>Day One Productivity</source>
+        <target>하루 안에 완성되는 생산성</target>
+      </segment>
+    </unit>
+    <unit id="58" name="contentBlocks.772942.columns.772944.text">
+      <segment state="initial">
+        <source>Turnkey for any skill level and feature-rich when you need it. It’s powerful — not complicated.</source>
+        <target>모든 기술 수준에서 턴키 방식으로 작업을 진행할 수 있고 필요할 때 다양한 기능을 이용할 수 있습니다. 강력하되 복잡하지 않습니다.</target>
+      </segment>
+    </unit>
+    <unit id="59" name="contentBlocks.772942.columns.772945.subheader">
+      <segment state="initial">
+        <source>Constantly Improving</source>
+        <target>끊임 없는 개선</target>
+      </segment>
+    </unit>
+    <unit id="60" name="contentBlocks.772942.columns.772945.text">
+      <segment state="initial">
+        <source>Automatic software updates continually make your hardware and parts better over time. We are always adding new features and enhancing existing ones.</source>
+        <target>자동 소프트웨어 업데이트로 시간이 지남에 따라 하드웨어와 파트를 지속적으로 개선합니다. 항상 새로운 기능은 추가하고 기존 기능은 향상합니다.</target>
+      </segment>
+    </unit>
+    <unit id="61" name="contentBlocks.772942.bgImage.46041.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="62" name="contentBlocks.772946.tiles.772947.heading">
+      <segment state="initial">
+        <source>Security built into your workflow</source>
+        <target>워크플로에 탑재된 보안</target>
+      </segment>
+    </unit>
+    <unit id="63" name="contentBlocks.772946.tiles.772947.description">
+      <segment state="initial">
+        <source>Our software’s security model, world-scale infrastructure, and unique capability to innovate will help keep your organization secure and compliant.</source>
+        <target>세계적 규모의 인프라 및 혁신을 위한 고유한 기능인 당사 소프트웨어의 보안 모델은 조직의 보안 및 규정 준수를 유지하는 데 도움이 됩니다.</target>
+      </segment>
+    </unit>
+    <unit id="64" name="contentBlocks.772946.tiles.772947.backgroundImage.83402.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="65" name="contentBlocks.772946.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="66" name="contentBlocks.772948.tiles.772949.heading">
+      <segment state="initial">
+        <source>Already a Markforged Customer?</source>
+        <target>이미 Markforged 고객이신가요?</target>
+      </segment>
+    </unit>
+    <unit id="67" name="contentBlocks.772948.tiles.772949.description">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="68" name="contentBlocks.772948.tiles.772949.backgroundImage.1720.alt">
+      <segment state="initial">
+        <source>Image of a part in Eiger, Markforged's 3D printer software</source>
+        <target>Markforged의 3D 프린터 소프트웨어인 Eiger에 띄운 파트 이미지</target>
+      </segment>
+    </unit>
+    <unit id="69" name="contentBlocks.772948.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="70" name="metaDescription">
+      <segment state="initial">
+        <source>The leading digital manufacturing software for driving business transformation. Produce any part on-demand and at the point of need with the first connected secure additive manufacturing platform. Our cloud-based 3D printing slicer software  provides a single place to manage your printer fleet in real-time.</source>
+        <target>비즈니스 혁신을 주도할 최고의 디지털 제조 소프트웨어입니다. 최초의 인터넷 보안 적층 제조 플랫폼에서 필요할 때 주문형으로 어떤 파트든 생산해보세요. 클라우드 기반 3D 프린팅 슬라이서 소프트웨어는 한 장소에서 실시간으로 프린터 제품군을 관리할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="71" name="metaTitle">
+      <segment state="initial">
+        <source>Eiger 3D Printing Software | Markforged</source>
+        <target>Eiger 3D 프린팅 소프트웨어 | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="72" name="ogImage.31953.alt">
+      <segment state="initial">
+        <source>Engineer looking at Markforged's 3D printer software, Eiger</source>
+        <target>Markforged의 3D 프린터 소프트웨어인 Eiger를 살펴보는 엔지니어</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

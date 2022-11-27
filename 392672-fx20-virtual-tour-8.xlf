@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/fx20-virtual-tour?token=7_GIabuz0oUFgTM0Y2ontK96SzKcPO6m</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/fx20-virtual-tour?token=xdO7HhHYZ29QH4nRex1ES9w010V5Y2jc</mda:meta>
+        <mda:meta type="elementId">392672</mda:meta>
+        <mda:meta type="draftId">2525</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>FX20 Virtual Tour</source>
+        <target>FX20 가상 투어</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

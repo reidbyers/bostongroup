@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/industries?token=PifZ1aVEucd0Gm9FwFqILn0rvBwNYWml</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/industries?token=CxG-OOdDb95LRYRhHOyTGncYJo5eGDiy</mda:meta>
+        <mda:meta type="elementId">257</mda:meta>
+        <mda:meta type="draftId">2527</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>Industries</source>
+        <target>산업</target>
+      </segment>
+    </unit>
+    <unit id="2" name="heroBgImage.72662.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="3" name="heroText">
+      <segment state="initial">
+        <source>Additive manufacturing provides scalable, tangible benefits over nearly every vertical. See how your industry is adopting 3D printing — and how you can take advantage.</source>
+        <target>적층 제조를 이용하면 거의 모든 업종에서 확장 가능하고 실질적인 이점을 얻을 수 있습니다. 속해 계신 산업에서 3D 프린팅을 채택하는 방법과 이를 활용할 수 있는 방법을 확인해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="4" name="contentBlocks.773267.tiles.773268.heading">
+      <segment state="initial">
+        <source>Automotive</source>
+        <target>자동차</target>
+      </segment>
+    </unit>
+    <unit id="5" name="contentBlocks.773267.tiles.773268.description">
+      <segment state="initial">
+        <source>Enhance the end-to-end customer experience through smarter manufacturing and faster response to problems.</source>
+        <target>더 스마트하게 제조하고 문제에 신속하게 대응하여 엔드 투 엔드 고객 경험을 향상해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="6" name="contentBlocks.773267.tiles.773268.backgroundImage.25805.alt">
+      <segment state="initial">
+        <source>Automotive engineers looking at parts</source>
+        <target>파트를 보고 있는 자동차 엔지니어</target>
+      </segment>
+    </unit>
+    <unit id="7" name="contentBlocks.773267.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="8" name="contentBlocks.773269.tiles.773270.heading">
+      <segment state="initial">
+        <source>Industrial Equipment</source>
+        <target>산업용 장비</target>
+      </segment>
+    </unit>
+    <unit id="9" name="contentBlocks.773269.tiles.773270.description">
+      <segment state="initial">
+        <source>Unlock superior products and customer experience with smarter manufacturing.</source>
+        <target>더 스마트한 제조를 통해 우수한 제품과 고객 경험의 물꼬를 틔워보세요.</target>
+      </segment>
+    </unit>
+    <unit id="10" name="contentBlocks.773269.tiles.773270.backgroundImage.26135.alt">
+      <segment state="initial">
+        <source>Industrial equipment engineer looking at parts</source>
+        <target>파트를 보고 있는 산업 장비 엔지니어</target>
+      </segment>
+    </unit>
+    <unit id="11" name="contentBlocks.773269.tiles.773271.heading">
+      <segment state="initial">
+        <source>Product Development</source>
+        <target>제품 개발</target>
+      </segment>
+    </unit>
+    <unit id="12" name="contentBlocks.773269.tiles.773271.description">
+      <segment state="initial">
+        <source>Design robust parts at the speed of software with cloud manufacturing.</source>
+        <target>클라우드 제조를 통해 소프트웨어가 작동하는 속도와 같은 속도로 견고한 파트를 설계합니다.</target>
+      </segment>
+    </unit>
+    <unit id="13" name="contentBlocks.773269.tiles.773271.backgroundImage.53284.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="14" name="contentBlocks.773269.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="15" name="contentBlocks.773272.tiles.773273.heading">
+      <segment state="initial">
+        <source>Aerospace</source>
+        <target>항공우주</target>
+      </segment>
+    </unit>
+    <unit id="16" name="contentBlocks.773272.tiles.773273.description">
+      <segment state="initial">
+        <source>Optimize part production and airframe performance with digital manufacturing.</source>
+        <target>디지털 제조를 통해 파트 생산 및 기체 성능을 최적화합니다.</target>
+      </segment>
+    </unit>
+    <unit id="17" name="contentBlocks.773272.tiles.773273.backgroundImage.25911.alt">
+      <segment state="initial">
+        <source>Aerospace engineer working</source>
+        <target>항공 우주 엔지니어 작업</target>
+      </segment>
+    </unit>
+    <unit id="18" name="contentBlocks.773272.tiles.773273.backgroundImage.25911.mobileOverride.33104.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="19" name="contentBlocks.773272.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="20" name="contentBlocks.773274.tiles.773275.heading">
+      <segment state="initial">
+        <source>Federal and Defense</source>
+        <target>정부 및 국방</target>
+      </segment>
+    </unit>
+    <unit id="21" name="contentBlocks.773274.tiles.773275.description">
+      <segment state="initial">
+        <source>Get robust parts and equipment in the field with the digital parts platform built for where you need it.</source>
+        <target>필요한 곳에 구축된 디지털 부품 플랫폼으로 현장에서 견고한 파트와 장비를 확보해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="22" name="contentBlocks.773274.tiles.773275.backgroundImage.53295.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="23" name="contentBlocks.773274.tiles.773276.heading">
+      <segment state="initial">
+        <source>Energy</source>
+        <target>에너지</target>
+      </segment>
+    </unit>
+    <unit id="24" name="contentBlocks.773274.tiles.773276.description">
+      <segment state="initial">
+        <source>Get critical parts anywhere they are needed with the only digital parts platform built to work anywhere.</source>
+        <target>어디서나 작동하도록 구축된 유일한 디지털 파트 플랫폼으로 필요한 곳이면 어디에서든지 중요한 파트를 얻을 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="25" name="contentBlocks.773274.tiles.773276.backgroundImage.53286.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="26" name="contentBlocks.773274.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="27" name="contentBlocks.773277.tiles.773278.heading">
+      <segment state="initial">
+        <source>Education</source>
+        <target>교육</target>
+      </segment>
+    </unit>
+    <unit id="28" name="contentBlocks.773277.tiles.773278.description">
+      <segment state="initial">
+        <source>Drive valuable learnings and cutting edge research on the safest and most accessible industrial 3D printing platform.</source>
+        <target>가장 안전하고 가장 접근하기 쉬운 산업용 3D 프린팅 플랫폼으로 귀중한 학습과 최첨단 연구를 주도하세요.</target>
+      </segment>
+    </unit>
+    <unit id="29" name="contentBlocks.773277.tiles.773278.backgroundImage.53309.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="30" name="contentBlocks.773277.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="31" name="contentBlocks.773279.tiles.773280.heading">
+      <segment state="initial">
+        <source>Consumer Packaged Goods</source>
+        <target>소비재</target>
+      </segment>
+    </unit>
+    <unit id="32" name="contentBlocks.773279.tiles.773280.description">
+      <segment state="initial">
+        <source>Unlock the productive potential of cloud manufacturing for the factory floor.</source>
+        <target>공장 현장에서 클라우드 제조의 생산성 잠재력을 활용해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="33" name="contentBlocks.773279.tiles.773280.backgroundImage.53285.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="34" name="contentBlocks.773279.tiles.773281.heading">
+      <segment state="initial">
+        <source>Electronics Manufacturing</source>
+        <target>전자제품 제조</target>
+      </segment>
+    </unit>
+    <unit id="35" name="contentBlocks.773279.tiles.773281.description">
+      <segment state="initial">
+        <source>Accelerate manufacturing with dynamic, connected fabrication tools for functional parts.</source>
+        <target>동적이면서도 연결된 제작 공구를 사용하여 기능성 파트를 만들고 제조를 가속화하세요.</target>
+      </segment>
+    </unit>
+    <unit id="36" name="contentBlocks.773279.tiles.773281.backgroundImage.53294.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="37" name="contentBlocks.773279.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="38" name="contentBlocks.773282.tiles.773283.heading">
+      <segment state="initial">
+        <source>Medical</source>
+        <target>의료</target>
+      </segment>
+    </unit>
+    <unit id="39" name="contentBlocks.773282.tiles.773283.description">
+      <segment state="initial">
+        <source>Enable medical professionals to better suit patient needs by accelerating new product development and unlocking highly customizable parts.</source>
+        <target>신제품 개발을 가속화하고 고도의 맞춤화가 가능한 파트를 생산하여 의료 전문가가 환자의 요구에 더 충실히 부응할 수 있도록 지원합니다.</target>
+      </segment>
+    </unit>
+    <unit id="40" name="contentBlocks.773282.tiles.773283.backgroundImage.51889.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="41" name="contentBlocks.773282.tiles.773284.heading">
+      <segment state="initial">
+        <source>Learn more about industry applications</source>
+        <target>산업 활용 분야 자세히 알아보기</target>
+      </segment>
+    </unit>
+    <unit id="42" name="contentBlocks.773282.tiles.773284.description">
+      <segment state="initial">
+        <source>Read our Additive Trends Report and visit our Application Library to see how other industries are leveraging 3D printing to drive results.</source>
+        <target>적층 제조 동향 보고서를 읽고 활용 분야 라이브러리를 방문하여 다른 산업에서 3D 프린팅을 활용하여 결과를 도출한 방법을 확인해보세요.</target>
+      </segment>
+    </unit>
+    <unit id="43" name="contentBlocks.773282.tiles.773284.backgroundImage.32199.alt">
+      <segment state="initial">
+        <source>Application library part</source>
+        <target>활용 분야 라이브러리 파트</target>
+      </segment>
+    </unit>
+    <unit id="44" name="contentBlocks.773282.tiles.773284.backgroundImage.32199.mobileOverride.32200.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="45" name="contentBlocks.773282.moreText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="46" name="metaDescription">
+      <segment state="initial">
+        <source>Learn how 3D printing is transforming industries like automotive, industrial equipment, product development, aerospace, and education. By moving to an additive manufacturing process saves engineers time, money, and effort.</source>
+        <target>3D 프린팅이 자동차, 산업 장비, 제품 개발, 항공 우주 및 교육과 같은 산업을 어떻게 변화시키고 있는지 알아보세요. 적층 제조 공정으로 전환하면 엔지니어가 시간, 비용과 노동력을 절약할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="47" name="metaTitle">
+      <segment state="initial">
+        <source>3D Printing Industries | Markforged</source>
+        <target>3D 프린팅 산업 | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="48" name="ogImage.6203.alt">
+      <segment state="initial">
+        <source>Engineer from Siemens Energy Innovation Center working on Kuka robot</source>
+        <target>Kuka 로봇을 개발 중인 지멘스 에너지 이노베이션 센터(Siemens Energy Innovation Center) 엔지니어</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

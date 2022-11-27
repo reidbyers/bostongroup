@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/?token=BNVRI3Ba8X6yttiQAwk2BKAx1qrn6kEL</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/?token=Gk0DMC1mlzcgTb2e25uMq7xs3gm6MPeK</mda:meta>
+        <mda:meta type="elementId">773097</mda:meta>
+        <mda:meta type="draftId">29</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>Home Page</source>
+        <target>홈페이지</target>
+      </segment>
+    </unit>
+    <unit id="2" name="contentBlocks.773098.slides.773099.header">
+      <segment state="initial">
+        <source>Smart Additive Manufacturing Platform</source>
+        <target>스마트 적층 제조 플랫폼</target>
+      </segment>
+    </unit>
+    <unit id="3" name="contentBlocks.773098.slides.773099.subheader">
+      <segment state="initial">
+        <source>Bigger. Faster. Stronger.</source>
+        <target>더 거대하게. 더 빠르게. 더 강력하게.</target>
+      </segment>
+    </unit>
+    <unit id="4" name="contentBlocks.773098.slides.773099.video.726454.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="5" name="contentBlocks.773098.slides.773099.video.726454.downloadType.">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="6" name="contentBlocks.773098.slides.773099.fallbackImage.302719.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="7" name="contentBlocks.773100.text">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="8" name="contentBlocks.773100.header">
+      <segment state="initial">
+        <source>Go from design to industrial 
+parts at the touch of print.</source>
+        <target>프린트 한 번으로 디자인을 산업용 파트로 바꿔 손에 쥐어 보세요.</target>
+      </segment>
+    </unit>
+    <unit id="9" name="contentBlocks.773101.header">
+      <segment state="initial">
+        <source>The Digital Forge Platform</source>
+        <target>Digital Forge 플랫폼</target>
+      </segment>
+    </unit>
+    <unit id="10" name="contentBlocks.773101.subheader">
+      <segment state="initial">
+        <source>Our smart platform makes it easy to solve tough manufacturing problems.</source>
+        <target>당사의 스마트 플랫폼을 사용하면 어려운 제조 문제를 쉽게 해결할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="11" name="contentBlocks.773101.tabs.773102.tabHeader">
+      <segment state="initial">
+        <source>Industrial 3D Printers</source>
+        <target>산업용 3D 프린터</target>
+      </segment>
+    </unit>
+    <unit id="12" name="contentBlocks.773101.tabs.773102.tabCopy">
+      <segment state="initial">
+        <source>Precision machines that consistently improve.</source>
+        <target>끊임 없이 개선되는 정밀 장비.</target>
+      </segment>
+    </unit>
+    <unit id="13" name="contentBlocks.773101.tabs.773102.ctaText">
+      <segment state="initial">
+        <source>See all printers</source>
+        <target>모든 프린터 보기</target>
+      </segment>
+    </unit>
+    <unit id="14" name="contentBlocks.773101.tabs.773102.backgroundImage.272138.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="15" name="contentBlocks.773101.tabs.773103.tabHeader">
+      <segment state="initial">
+        <source>Performance Materials</source>
+        <target>기능성 소재</target>
+      </segment>
+    </unit>
+    <unit id="16" name="contentBlocks.773101.tabs.773103.tabCopy">
+      <segment state="initial">
+        <source>Metals. Continuous fiber. Composites. All at your command.</source>
+        <target>금속. 연속 섬유. 복합재. 모든 소재를 자유자재로.</target>
+      </segment>
+    </unit>
+    <unit id="17" name="contentBlocks.773101.tabs.773103.ctaText">
+      <segment state="initial">
+        <source>See all materials</source>
+        <target>모든 소재 보기</target>
+      </segment>
+    </unit>
+    <unit id="18" name="contentBlocks.773101.tabs.773103.backgroundImage.55136.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="19" name="contentBlocks.773101.tabs.773104.tabHeader">
+      <segment state="initial">
+        <source>Enterprise Software</source>
+        <target>엔터프라이즈 소프트웨어</target>
+      </segment>
+    </unit>
+    <unit id="20" name="contentBlocks.773101.tabs.773104.tabCopy">
+      <segment state="initial">
+        <source>Software that dovetails into your workflow.</source>
+        <target>내 워크플로에 꼭 맞는 소프트웨어.</target>
+      </segment>
+    </unit>
+    <unit id="21" name="contentBlocks.773101.tabs.773104.ctaText">
+      <segment state="initial">
+        <source>Learn more</source>
+        <target>더 알아보기</target>
+      </segment>
+    </unit>
+    <unit id="22" name="contentBlocks.773101.tabs.773104.backgroundImage.33389.alt">
+      <segment state="initial">
+        <source>Image of a lifter prototype in Eiger, Markforged's 3D printer software</source>
+        <target>Markforged의 3D 프린터 소프트웨어인 Eiger의 리프터 프로토타입 이미지</target>
+      </segment>
+    </unit>
+    <unit id="23" name="contentBlocks.773105.textColumns.773106.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">Turnkey Simplicity</h3>
+<p>The Digital Forge is purpose-built to integrate quickly and seamlessly into your manufacturing ecosystem.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">간단한 턴키 작업</h3>
+<p>Digital Forge는 제조 생태계를 빠르고 원활하게 통합할 수 있도록 특별히 제작되었습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="24" name="contentBlocks.773105.textColumns.773107.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">Robust Parts</h3>
+<p>Print repeatable, production-quality parts using materials curated for durability and strength.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">견고한 파트</h3>
+<p>내구성과 강도에 따라 선별된 재료로 반복 가능한 생산 품질의 파트를 프린트해보세요.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="25" name="contentBlocks.773105.textColumns.773108.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">Perpetual ROI</h3>
+<p>See returns in weeks, not years. Keep increasing your bottom line with consistently improving machines and streamlined operations.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">영구적인 ROI</h3>
+<p>수익은 몇 년이 아니라 몇 주 안에 확인할 수 있습니다. 지속적으로 장비를 개선하고 운영을 간소화하여 수익을 늘려 나가보세요.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="26" name="contentBlocks.773105.textColumns.773109.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">Unlocked Potential</h3>
+<p>Transform your supply chain, unleash workforce creativity, and create a culture of innovation.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-32/64 t:-tracking-200 -tracking-100 leading-40 t:leading-60">아낌 없이 발휘하는 잠재력</h3>
+<p>공급망을 혁신하고 작업자가 창의성을 발휘하게 하여 혁신하는 문화를 조성해보세요.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="27" name="contentBlocks.773112.groups.773113.logos.31481.alt">
+      <segment state="initial">
+        <source>VW logo</source>
+        <target>폭스바겐(VW) 로고</target>
+      </segment>
+    </unit>
+    <unit id="28" name="contentBlocks.773112.groups.773114.logos.31479.alt">
+      <segment state="initial">
+        <source>U.S Department of Veteran's Affairs logo</source>
+        <target>미국 보훈처(U.S Department of Veteran's Affairs) 로고</target>
+      </segment>
+    </unit>
+    <unit id="29" name="contentBlocks.773112.groups.773115.logos.31476.alt">
+      <segment state="initial">
+        <source>Sonos logo</source>
+        <target>소노스(Sonos) 로고</target>
+      </segment>
+    </unit>
+    <unit id="30" name="contentBlocks.773112.groups.773116.logos.550719.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="31" name="contentBlocks.773112.groups.773117.logos.31464.alt">
+      <segment state="initial">
+        <source>Sandia logo</source>
+        <target>샌디아 국립 연구소(Sandia) 로고</target>
+      </segment>
+    </unit>
+    <unit id="32" name="contentBlocks.773112.groups.773118.logos.31463.alt">
+      <segment state="initial">
+        <source>Rolls Royce logo</source>
+        <target>롤스로이스(Rolls Royce) 로고</target>
+      </segment>
+    </unit>
+    <unit id="33" name="contentBlocks.773112.groups.773119.logos.31454.alt">
+      <segment state="initial">
+        <source>NASA logo</source>
+        <target>미국 항공 우주국(NASA) 로고</target>
+      </segment>
+    </unit>
+    <unit id="34" name="contentBlocks.773112.groups.773120.logos.31458.alt">
+      <segment state="initial">
+        <source>Philips logo</source>
+        <target>필립스(Philips) 로고</target>
+      </segment>
+    </unit>
+    <unit id="35" name="contentBlocks.773112.groups.773121.logos.615066.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="36" name="metaDescription">
+      <segment state="initial">
+        <source>Markforged produces the leading additive manufacturing platform for manufacturing and factory floors. Our best-in-class industrial carbon fiber and metal 3D printers can print stainless steel, copper, fiberglass, and more.</source>
+        <target>Markforged는 제조 및 공장 현장에서 사용할 수 있는 최고의 적층 제조 플랫폼을 생산합니다. 당사의 동급 최고의 산업용 탄소 섬유 및 금속 3D 프린터는 스테인리스 스틸, 구리, 유리 섬유 등을 프린트할 수 있는 제품입니다.</target>
+      </segment>
+    </unit>
+    <unit id="37" name="metaTitle">
+      <segment state="initial">
+        <source>Industrial Additive Manufacturing Platform | Markforged</source>
+        <target>산업용 적층 제조 플랫폼 | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="38" name="ogImage.1899.alt">
+      <segment state="initial">
+        <source>Markforged X7 Industrial Carbon Fiber 3D Printer</source>
+        <target>Markforged X7 산업용 Carbon Fiber 3D 프린터</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

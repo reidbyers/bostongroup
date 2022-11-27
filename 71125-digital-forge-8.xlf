@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" version="2.0" srcLang="en-US" trgLang="ko-KR">
+  <file id="f1">
+    <mda:metadata>
+      <mda:metaGroup>
+        <mda:meta type="original">https://markforged.com/ko/digital-forge?token=sCwIw8tUy-VS7Y3P9djKc-hE4FV_lRXS</mda:meta>
+        <mda:meta type="preview">https://markforged.com/ko/digital-forge?token=2eEX4mqCnZtfVg_HpFLgPTBhSuh4Bd-Q</mda:meta>
+        <mda:meta type="elementId">71125</mda:meta>
+        <mda:meta type="draftId">2529</mda:meta>
+        <mda:meta type="source-site">1</mda:meta>
+        <mda:meta type="target-site">8</mda:meta>
+        <mda:meta type="source-language">en-US</mda:meta>
+        <mda:meta type="target-language">ko-KR</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1" name="title">
+      <segment state="initial">
+        <source>The Digital Forge</source>
+        <target>Digital Forge</target>
+      </segment>
+    </unit>
+    <unit id="2" name="digitalForgeMatrix.773554.header">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="3" name="digitalForgeMatrix.773554.mobileImage.32564.alt">
+      <segment state="initial">
+        <source>Printing with the Digital Forge tomorrow</source>
+        <target>내일을 프린팅하는 Digital Forge</target>
+      </segment>
+    </unit>
+    <unit id="4" name="digitalForgeMatrix.773555.header">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="5" name="digitalForgeMatrix.773555.text">
+      <segment state="initial">
+        <source>Meet the platform that prints 
+industrial parts 
+at the speed of software.</source>
+        <target>소프트웨어의 속도로 산업용 파트를 프린팅하는 플랫폼을 만나보세요.</target>
+      </segment>
+    </unit>
+    <unit id="6" name="digitalForgeMatrix.773556.header">
+      <segment state="initial">
+        <source>The Digital Forge</source>
+        <target>Digital Forge</target>
+      </segment>
+    </unit>
+    <unit id="7" name="digitalForgeMatrix.773556.routes.773557.ctaLabel">
+      <segment state="initial">
+        <source>Software</source>
+        <target>소프트웨어</target>
+      </segment>
+    </unit>
+    <unit id="8" name="digitalForgeMatrix.773556.routes.773558.ctaLabel">
+      <segment state="initial">
+        <source>Materials</source>
+        <target>재료</target>
+      </segment>
+    </unit>
+    <unit id="9" name="digitalForgeMatrix.773556.routes.773559.ctaLabel">
+      <segment state="initial">
+        <source>Printers</source>
+        <target>프린터</target>
+      </segment>
+    </unit>
+    <unit id="10" name="digitalForgeMatrix.773560.header">
+      <segment state="initial">
+        <source>Browser-based. Creativity unlocked.</source>
+        <target>브라우저 기반. 무한한 창의력.</target>
+      </segment>
+    </unit>
+    <unit id="11" name="digitalForgeMatrix.773560.text">
+      <segment state="initial">
+        <source>Eiger™ is the engine of our platform — a secure software interface that's as powerful as it is accessible.</source>
+        <target>Eiger™는 당사 플랫폼의 엔진이며 강력한 보안 소프트웨어 인터페이스로 쉽게 액세스할 수 있는 만큼 강력합니다.</target>
+      </segment>
+    </unit>
+    <unit id="12" name="digitalForgeMatrix.773561.text">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="13" name="digitalForgeMatrix.773561.videoSrc">
+      <segment state="initial">
+        <source>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital+Forge_Software.mp4</source>
+        <target>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital Forge_Software.mp4</target>
+      </segment>
+    </unit>
+    <unit id="14" name="digitalForgeMatrix.773561.mobileImage.72452.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="15" name="digitalForgeMatrix.773562.header">
+      <segment state="initial">
+        <source>The Digital Forge</source>
+        <target>Digital Forge</target>
+      </segment>
+    </unit>
+    <unit id="16" name="digitalForgeMatrix.773562.routes.773563.ctaLabel">
+      <segment state="initial">
+        <source>Software</source>
+        <target>소프트웨어</target>
+      </segment>
+    </unit>
+    <unit id="17" name="digitalForgeMatrix.773562.routes.773564.ctaLabel">
+      <segment state="initial">
+        <source>Materials</source>
+        <target>재료</target>
+      </segment>
+    </unit>
+    <unit id="18" name="digitalForgeMatrix.773562.routes.773565.ctaLabel">
+      <segment state="initial">
+        <source>Printers</source>
+        <target>프린터</target>
+      </segment>
+    </unit>
+    <unit id="19" name="digitalForgeMatrix.773566.header">
+      <segment state="initial">
+        <source>Made of metal. And even 
+stronger composites.</source>
+        <target>금속으로 제작. 그리고 더 튼튼한 복합재까지.</target>
+      </segment>
+    </unit>
+    <unit id="20" name="digitalForgeMatrix.773566.text">
+      <segment state="initial">
+        <source>Our industrial-grade materials enable engineers to make functional parts for manufacturing environments.</source>
+        <target>당사의 산업 등급 재료를 사용하면 엔지니어가 제조 환경에서 사용할 수 있는 기능성 파트를 제작할 수 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="21" name="digitalForgeMatrix.773567.text">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="22" name="digitalForgeMatrix.773567.videoSrc">
+      <segment state="initial">
+        <source>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital+Forge_Materials.mp4</source>
+        <target>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital Forge_Materials.mp4</target>
+      </segment>
+    </unit>
+    <unit id="23" name="digitalForgeMatrix.773567.mobileImage.72454.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="24" name="digitalForgeMatrix.773568.header">
+      <segment state="initial">
+        <source>The Digital Forge</source>
+        <target>Digital Forge</target>
+      </segment>
+    </unit>
+    <unit id="25" name="digitalForgeMatrix.773568.routes.773569.ctaLabel">
+      <segment state="initial">
+        <source>Software</source>
+        <target>소프트웨어</target>
+      </segment>
+    </unit>
+    <unit id="26" name="digitalForgeMatrix.773568.routes.773570.ctaLabel">
+      <segment state="initial">
+        <source>Materials</source>
+        <target>재료</target>
+      </segment>
+    </unit>
+    <unit id="27" name="digitalForgeMatrix.773568.routes.773571.ctaLabel">
+      <segment state="initial">
+        <source>Printers</source>
+        <target>프린터</target>
+      </segment>
+    </unit>
+    <unit id="28" name="digitalForgeMatrix.773572.header">
+      <segment state="initial">
+        <source>Precision Designed. 
+Production Ready.</source>
+        <target>정밀함을 설계하다. 바로 생산에 투입 가능.</target>
+      </segment>
+    </unit>
+    <unit id="29" name="digitalForgeMatrix.773572.text">
+      <segment state="initial">
+        <source>Our complete line of rugged 3D printers and systems are built to produce reliable, repeatable results.</source>
+        <target>견고한 3D 프린터와 시스템으로 구성된 전체 라인은 신뢰할 수 있고 반복 가능한 결과를 얻을 수 있도록 제작되었습니다.</target>
+      </segment>
+    </unit>
+    <unit id="30" name="digitalForgeMatrix.773573.text">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="31" name="digitalForgeMatrix.773573.videoSrc">
+      <segment state="initial">
+        <source>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital+Forge_Quality.mp4</source>
+        <target>https://www-objects.markforged.com/craft/digitalForge/Markforged_Digital Forge_Quality.mp4</target>
+      </segment>
+    </unit>
+    <unit id="32" name="digitalForgeMatrix.773573.mobileImage.72453.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="33" name="digitalForgeMatrix.773574.header">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="34" name="digitalForgeMatrix.773574.text">
+      <segment state="initial">
+        <source>The Digital Forge lives in the cloud, powered by AI. It collaborates, scales, and gets smarter with every print.</source>
+        <target>Digital Forge는 AI로 구동되는 클라우드에 존재합니다. 프린트할 때마다 협업하고 확장하며 더 스마트해집니다.</target>
+      </segment>
+    </unit>
+    <unit id="35" name="digitalForgeMatrix.773575.textColumns.773576.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Agile &amp; Fast</h3>
+<p>Eliminate barriers between designs and functional parts.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">민첩하고 신속하다</h3>
+<p>디자인과 기능성 파트 사이의 장벽을 제거합니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="36" name="digitalForgeMatrix.773575.textColumns.773577.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Scale Securely</h3>
+<p>A secure platform that integrates seamlessly into how you manufacture.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">안전한 확장</h3>
+<p>제조 방식에 완벽하게 통합되는 보안 플랫폼입니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="37" name="digitalForgeMatrix.773575.textColumns.773578.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">One Handshake</h3>
+<p>Print projects on a unified platform. One platform, broad capabilities.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">간단한 합의</h3>
+<p>통합 플랫폼에서 프로젝트를 프린트합니다. 하나의 플랫폼, 폭넓은 성능.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="38" name="digitalForgeMatrix.773579.columns.773580.copy">
+      <segment state="initial">
+        <source><![CDATA[<p>The Digital Forge is the intuitive Additive Manufacturing platform for modern manufacturers—bringing the power and speed of agile software development to industrial manufacturing. Composed of software, printers, and materials working seamlessly on a unified platform, it’s purpose-built to integrate into your existing manufacturing ecosystem.</p>]]></source>
+        <target><![CDATA[<p>Markforged의 Digital Forge는 현대 제조업체를 위한 직관적인 적층 제조 플랫폼으로서 민첩한 소프트웨어 개발의 성능과 속도를 산업 제조에 적용할 수 있는 제품입니다. 제품을 구성하는 소프트웨어, 프린터와 재료는 통합 플랫폼에서 원활하게 작동하며 기존 제조 에코시스템에 통합되도록 특별히 제작되었습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="39" name="digitalForgeMatrix.773579.columns.773581.copy">
+      <segment state="initial">
+        <source><![CDATA[<p>Digital Forge adopters reap immediate benefits through massive time and money savings on parts. The Digital Forge platform is designed to eliminate barriers between design and functional part. Through increased adoption, the platform drives competitive advantages by making your entire operation more agile and efficient.</p>]]></source>
+        <target><![CDATA[<p>Digital Forge를 채택하면 파트에 드는 막대한 시간과 비용 을 절감하여 즉각적으로 이윤을 창출할 수 있습니다. Digital Forge 플랫폼은 디자인과 기능성 파트 사이의 장벽을 제거하도록 설계되었습니다. 플랫폼을 더 많이 채택할 수록 전체 운영의 민첩성과 효율성을 향상하여 경쟁 우위를 확보할 수 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="40" name="digitalForgeMatrix.773582.image.18282.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="41" name="digitalForgeMatrix.773583.textColumns.773584.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-24/48 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">We have the largest online fleet of industrial 3D printers in the world.</h3>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-24/48 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">당사는 세계 최대 규모로 산업용 3D 프린터 제품군이 온라인에 연결되어 있습니다.</h3>]]></target>
+      </segment>
+    </unit>
+    <unit id="42" name="digitalForgeMatrix.773583.textColumns.773585.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Top 9</h3>
+<p>Global manufacturing companies are using Markforged 3D printers to transform their process.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">상위 9위</h3>
+<p>글로벌 제조 기업이 Markforged 3D 프린터를 사용하여 프로세스를 혁신하고 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="43" name="digitalForgeMatrix.773583.textColumns.773586.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Top 10</h3>
+<p>Global aerospace companies utilize Markforged 3D printers for efficiency and innovation.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">상위 10위</h3>
+<p>글로벌 항공우주 기업이 효율화 하고 혁신하는 데 Markforged 3D 프린터를 활용합니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="44" name="digitalForgeMatrix.773583.textColumns.773587.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Top 9</h3>
+<p>Global universities are using Markforged to prepare their students for the future of manufacturing.</p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">상위 9위</h3>
+<p>글로벌 대학이 Markforged 제품을 사용하여 학생들이 제조의 미래를 준비할 수 있도록 하고 있습니다.</p>]]></target>
+      </segment>
+    </unit>
+    <unit id="45" name="digitalForgeMatrix.773588.images.74970.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="46" name="digitalForgeMatrix.773589.testimonials.773590.heading">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="47" name="digitalForgeMatrix.773589.testimonials.773590.copy">
+      <segment state="initial">
+        <source>It's the closest thing to teleportation I think you can get.</source>
+        <target>텔레포트라고 생각하시면 가장 유사할 것 같습니다.</target>
+      </segment>
+    </unit>
+    <unit id="48" name="digitalForgeMatrix.773589.testimonials.773590.attributionTitle">
+      <segment state="initial">
+        <source><![CDATA[Principal Engineer, Additive Manufacturing & Advanced Concepts, Vestas]]></source>
+        <target><![CDATA[베스타스 , 적층 제조 및 고급 개념 담당, 수석 엔지니어]]></target>
+      </segment>
+    </unit>
+    <unit id="49" name="digitalForgeMatrix.773589.testimonials.773591.heading">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="50" name="digitalForgeMatrix.773589.testimonials.773591.copy">
+      <segment state="initial">
+        <source>They have fundamentally changed the financing of our company.</source>
+        <target>그들은 우리 회사의 자금 조달에 근본적인 변화를 가져왔습니다.</target>
+      </segment>
+    </unit>
+    <unit id="51" name="digitalForgeMatrix.773589.testimonials.773591.attributionTitle">
+      <segment state="initial">
+        <source>Lead Mechanical Engineer and Co-Founder, Haddington Dynamics</source>
+        <target> 해딩톤 다이나믹스(Haddington Dynamics) 수석 기계 엔지니어 및 공동 창립자</target>
+      </segment>
+    </unit>
+    <unit id="52" name="digitalForgeMatrix.773589.testimonials.773592.heading">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="53" name="digitalForgeMatrix.773589.testimonials.773592.copy">
+      <segment state="initial">
+        <source>It is easily one of the best technologies we've brought in, since the internet.</source>
+        <target>인터넷이 생긴 이래로 당사가 도입한 최고의 기술 중 하나입니다.</target>
+      </segment>
+    </unit>
+    <unit id="54" name="digitalForgeMatrix.773589.testimonials.773592.attributionTitle">
+      <segment state="initial">
+        <source>President, Cashco, Inc.</source>
+        <target>㈜캐시코 대표이사</target>
+      </segment>
+    </unit>
+    <unit id="55" name="digitalForgeMatrix.773589.testimonials.773593.heading">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="56" name="digitalForgeMatrix.773589.testimonials.773593.copy">
+      <segment state="initial">
+        <source>Sometimes in the evenings I have a problem going to sleep because I can't stop thinking of all the possibilities.</source>
+        <target>저녁이 되면 때때로 여러 가지 가능성이 떠올라 생각을 멈출 수 없어서 잠을 이룰 수가 없습니다.</target>
+      </segment>
+    </unit>
+    <unit id="57" name="digitalForgeMatrix.773589.testimonials.773593.attributionTitle">
+      <segment state="initial">
+        <source>Owner, MF Precision</source>
+        <target>MF정밀 사장</target>
+      </segment>
+    </unit>
+    <unit id="58" name="digitalForgeMatrix.773589.testimonials.773594.heading">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="59" name="digitalForgeMatrix.773589.testimonials.773594.copy">
+      <segment state="initial">
+        <source>It's a critical component in our design process and is really changing the way we work.</source>
+        <target>당사의 디자인 프로세스를 구성하는 중요한 요소이며 실제로 우리가 일하는 방식을 바꾸고 있습니다.</target>
+      </segment>
+    </unit>
+    <unit id="60" name="digitalForgeMatrix.773589.testimonials.773594.attributionTitle">
+      <segment state="initial">
+        <source>Automation Technician, Dixon Valve</source>
+        <target>딕슨 밸브 자동화 기술자</target>
+      </segment>
+    </unit>
+    <unit id="61" name="digitalForgeMatrix.773595.textColumns.773596.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">The Digital Forge:<br />Success Stories</h3>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Digital Forge:<br />성공 사례</h3>]]></target>
+      </segment>
+    </unit>
+    <unit id="62" name="digitalForgeMatrix.773595.textColumns.773597.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Vestas</h3>
+<p>Vestas is using The Digital Forge additive manufacturing platform to improve their overall manufacturing process.</p>
+<p><a href="https://markforged.com/resources/case-studies/vestas"><strong><u>Read their Success Story</u></strong></a></p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">베스타스</h3>
+<p>베스타스는 Digital Forge 적층 제조 플랫폼을 사용하여 전체 제조 프로세스를 개선하고 있습니다.</p>
+<p><a href="https://markforged.com/resources/case-studies/vestas"><strong><u>성공 사례 읽기</u></strong></a></p>]]></target>
+      </segment>
+    </unit>
+    <unit id="63" name="digitalForgeMatrix.773595.textColumns.773598.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">RPG Industries</h3>
+<p>RPG Industries Inc. brought in a Metal X and Mark Two 3D printer to print tooling, replacement parts, and more.</p>
+<p><a href="https://markforged.com/resources/case-studies/rpg-industries"><strong><u>Read their Success Story</u></strong></a></p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">RPG 산업</h3>
+<p>RPG 산업은 도구, 교체용 부품 등을 프린트하기 위해 Metal X와 Mark Two 3D 프린터를 도입했습니다.</p>
+<p><a href="https://markforged.com/resources/case-studies/rpg-industries"><strong><u>성공 사례 읽기</u></strong></a></p>]]></target>
+      </segment>
+    </unit>
+    <unit id="64" name="digitalForgeMatrix.773595.textColumns.773599.text">
+      <segment state="initial">
+        <source><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">Caldwell</h3>
+<p>Caldwell Manufacturing utilized its Markforged printers for everything from R&amp;D to low-volume production parts.</p>
+<p><a href="https://markforged.com/resources/case-studies/caldwell-manufacturing"><strong><u>Read their Success Story</u></strong></a></p>]]></source>
+        <target><![CDATA[<h3 class="fontsize-24/48 t:fontsize-36/72 text-black pt-2 t:-tracking-200 -tracking-100 leading-40 t:leading-60 font-display">콜드웰</h3>
+<p>콜드웰 매뉴팩쳐링은 R&amp;D에서 부품 소량 생산에 이르기까지 모든 작업에 Markforged 프린터를 활용했습니다.</p>
+<p><a href="https://markforged.com/resources/case-studies/caldwell-manufacturing"><strong><u>성공 사례 읽기</u></strong></a></p>]]></target>
+      </segment>
+    </unit>
+    <unit id="65" name="getStartedSubheader">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="66" name="detailText">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+    <unit id="67" name="metaDescription">
+      <segment state="initial">
+        <source>The Digital Forge is the industry-leading Additive Manufacturing platform — 3D printers, materials, and software designed to yield value for your business.</source>
+        <target>Digital Forge는 업계를 선도하는 적층 제조 플랫폼으로 이를 구성하는 3D 프린터, 재료, 소프트웨어는 비즈니스 가치를 창출하도록 설계되었습니다.</target>
+      </segment>
+    </unit>
+    <unit id="68" name="metaTitle">
+      <segment state="initial">
+        <source>The Digital Forge | Markforged</source>
+        <target>Digital Forge | Markforged</target>
+      </segment>
+    </unit>
+    <unit id="69" name="ogImage.559026.alt">
+      <segment state="initial">
+        <source>
+        </source>
+        <target />
+      </segment>
+    </unit>
+  </file>
+</xliff>
